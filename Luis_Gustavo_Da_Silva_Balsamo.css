@@ -1,0 +1,298 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,500&display=swap');
+body {
+    margin: 0;
+}
+
+section {
+    height: 100vh;
+}
+
+#search{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18.1999px;
+    line-height: 94.8%;
+    margin-left: 22%;
+    padding-left: 32px;
+    width: 110%;
+    height: 53%;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 15%;
+    background: rgba(255, 249, 240, 0.1);
+    box-shadow: 10px 17.9272px 33.0907px -10.2363px rgb(0 0 0 / 10%);
+    border: none;
+
+}
+.Simbolo_header{
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 139.8%;
+    color: #000000;
+
+}
+.ancora{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 94.8%;
+    color: #000000;
+    text-decoration: none;
+    margin-right: 5%;
+}
+
+.botao-header{
+    padding-left: 17%;
+    display: flex;
+    margin-right: 3%;
+    margin-top: 12%;
+    box-shadow: 0px 4.71429px 4.71429px rgb(0 0 0 / 25%);
+    width: 45%;
+    height: 68%;
+    border: 1px solid black;
+    border-radius: 57px;
+    background: linear-gradient(304.58deg, #F4ECE1 57.1%, #FCFBF7 145.5%);
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.7857px;
+    align-items: center;
+    text-align: center;
+    color: #2F2F2F;
+}
+.Botao-preto-header{
+    margin-top: 12%;
+    width: 45%;
+    height: 68%;
+    border: 1px solid black;
+    border-radius: 57px;
+    background: black;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.7857px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    box-shadow: 0px 4.71429px 4.71429px rgb(0 0 0 / 25%);
+    }
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.alinha-ancora{
+    display: flex;
+
+    padding-top: 4%;
+}
+.landing{
+    background: linear-gradient(304.58deg, #F4ECE1 57.1%, #FCFBF7 145.5%);
+}
+.simbolo{
+    padding-top: 2%;
+}
+.input{
+    display: flex;
+
+}
+.lupa{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 64px;
+    width: 17px;
+    height: 18px;
+}
+.carrinho{
+    width: 17px;
+    height: 18px;
+    position: absolute;
+    margin-top: 51px;
+    margin-left: 229px;
+}
+.risco{
+    position: absolute;
+    border-top: 36px;
+    height: 28px;
+    margin-left: 222px;
+    margin-top: 44px;
+    border: 0.827267px solid rgba(148, 140, 140, 0.31);
+}
+.numero{
+    position: absolute;
+    margin-top: 33px;
+    margin-left: 244px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8.27267px;
+    line-height: 98.8%;
+    color: #FFFFFF;
+    background: #EC2633;
+    box-shadow: 0px 1.65453px 10.0271px 2.827267px rgb(255 51 52 / 72%);
+    padding: 4px;
+    border-radius: 100px;
+}
+.botoes{
+    width: 21%;
+    display: flex;
+}
+.texto-landing{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.easy-texto{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.005em;
+    color: #FF8E0A;
+    padding-left: 15%;
+}
+.fast-texto{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 103.408px;
+    line-height: 94.8%;
+    letter-spacing: -0.035em;
+    color: #FF7E00;
+    margin:1%;
+    margin-top: 0px;
+}
+.food-texto{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 43.0179px;
+    line-height: 94.8%;
+    color: #2F2F2F;
+}
+.escrita-landing{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18.1999px;
+    line-height: 138.8%;
+    color: #909090;
+    width: 75%;
+    padding-left: 1%;
+
+}
+.alinha-texto{
+    display:flex;
+}
+.separa-texto{
+    display: flex;
+    flex-direction: column;
+    padding-top: 2%;
+    padding-left: 1%;
+}
+.lanche{
+    position: absolute;
+    width: 73.56px;
+    height: 66.75px;
+    top: 145px;
+    margin-left: 20px;
+}
+.botao-cinza{
+    margin-top: 2%;
+    margin-left: 6%;
+
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    background: #2F2F2F;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.7857px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    box-shadow: 0px 4.71429px 4.71429px rgb(0 0 0 / 25%);
+    padding-right: 4%;
+    padding-left: 4%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    height: 30%;
+}
+.aviao{
+    position: absolute;
+    padding-left: 34%;
+    top: 17%;
+}
+.caminho{
+    position: absolute;
+    padding-left: 28%;
+    top: 23%;
+}
+.div-botao{
+    display:flex;
+        margin-top: 4%;
+}
+.triangulo{
+    width: 17.37px;
+    height: 17.37px;
+    margin-left: 5%;
+    margin-top: 2.7%;
+    padding: 1.5%;
+    background: #FFF8F0;
+    box-shadow: 0px 2.5453px 5.7816px -3.2363px rgb(0 0 0);
+    border-radius: 100%;
+}
+.order{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 132.3%;
+    letter-spacing: 0.045em;
+    color: #000000;
+    padding-top: 4%;
+    padding-left: 1%;
+}
+.final-landing{
+    display: flex;
+    flex-direction: column;
+    margin-left: 6%;
+    margin-top: 3%;
+}
+.star-text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14.8908px;
+    line-height: 139.8%;
+    color: #2F2F2F;
+    margin-bottom: 0.5%;
+}
+.review-text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8908px;
+    line-height: 111.8%;
+    color: #a4a0a0;
+}
+.landing-page{
+    display: flex;
+}
+.ladob{
+    width: 50%;
+    margin-right: 4%;
+}
+.sacola{
+    margin-top: 4%;
+    height: 85%;    
+}
+.ladoa{
+    margin-top: 5%;
+}
