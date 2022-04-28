@@ -296,3 +296,163 @@ section {
 .ladoa{
     margin-top: 5%;
 }
+.segunda-tela{
+    height: 150vh;
+    
+    
+}
+.titulo-tela2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54.4404px;
+    line-height: 82px;
+    text-align: center;
+    letter-spacing: 0.005em;
+    color: #44455B;
+    width: 50%;
+    margin-left: 31%;
+    height: 14%;
+    margin-top: 2%;
+}
+.div-texto2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 7%;
+    margin-left: 6%;
+    width: 65%;
+
+}
+.titulo2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 21.7762px;
+    line-height: 33px;
+    letter-spacing: -0.01em;
+    color: #44455B;
+    padding-bottom: 2%;
+}
+.texto2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.3321px;
+    line-height: 163.6%;
+    letter-spacing: -0.005em;
+    color: #44455B;
+}
+.flex{
+    display:flex;
+    
+}
+.balao{
+    display: flex;
+    flex-direction: column;
+}
+.imagem{
+    width: 35.01px;
+    height: 41.39px;
+    padding-left: 40%;
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+.alinha-tela2{
+    display:flex;
+}
+.balao-fazer{
+    width: 65%;
+    height: 85%;
+    margin-top: 7%;
+    background: rgb(245, 237, 225);
+    border-radius: 15.6116px;
+    margin-right: 0%;
+    margin-left: 5%;
+    box-shadow: 23px 7.5453px 7.7816px 6.7637px #e5e5e5;
+}
+.titulo-2{
+    width: 131%;
+    padding-left: 43%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18.4501px;
+    line-height: 28px;
+    letter-spacing: -0.01em;
+    color: rgb(68, 69, 91);
+    padding-bottom: 3%;
+}
+.descricao{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.3321px;
+    line-height: 163.6%;
+    letter-spacing: -0.005em;
+    color: rgb(68, 69, 91);
+    padding-left: 2%;
+}
+.bola-cortada{
+    position: absolute;
+    top: 165%;
+    left: 0px;
+}
+.tela2parte2{
+    display: flex;
+    flex-direction: column;
+}
+.tela2parte2titulo{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 32px;
+    text-align: center;
+    color: #F4C276;
+    margin-left: 20%;
+    margin-top: 8%;
+}
+.tituloazul{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: center;
+    color: #44455B;
+    padding-left: 22%;
+}
+.balao-fazer2{  
+    position: absolute;
+    margin-top: 7%;
+    border-radius: 15.6116px;
+    margin-right: 0%;
+    box-shadow: 23px 7.5453px 7.7816px 6.7637px #e5e5e5;
+}
+#balaodiferente{
+    
+  
+    height: 65%;
+    display: flex;
+    width: 20%;
+    margin-left: 11%;
+    background: white;
+}
+.imagem-comida{
+    top: -24px;
+    left: -64px;
+    position: absolute;
+    width: 255px;
+    height: 283px;
+    border-radius: 20px;
+    border-top-left-radius: 100px;
+    padding-left: 7%;
+    margin-left: 23px;
+}
+.balao2{
+    padding-top: 110%;
+
+}
+.valor{
+    padding-top: 50%;
+}
